@@ -41,3 +41,8 @@ if (targetNumber >= 0 && (targetNumber % 1 === 0)){
 ## Education
 
 **University:** M.V. Lomonosov Moscow State University (MSU), Faculty of Fundamental Physical and Chemical Engineering, Specialist in Physics
+
+## Languages
+
+* Russian - native speaker
+* English - A1 (A2 in process…)
